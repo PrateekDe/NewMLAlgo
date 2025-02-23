@@ -1,0 +1,7 @@
+touch requirements.txt
+
+pandas
+numpy
+scikit-learn
+datasets
+transformers

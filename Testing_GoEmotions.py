@@ -24,7 +24,7 @@ THIS IS A PROPERTY OF MINDSCRIBE TECH.. PLEASE DO NOT COPY OR DISTRIBUTE WITHOUT
 
 
 
-
+# Install all the necessary libraries using: pip install -r requirements.txt
 
 import pandas as pd
 import numpy as np
