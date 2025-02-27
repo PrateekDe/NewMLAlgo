@@ -1,1 +1,3 @@
 glove.*.txt 
+transformers/results/*
+transformers/wandb/*
